@@ -92,7 +92,7 @@ Summary: Streams data pipelines are used when
 2. Data cleaning improves quality but increases latency
 3. Lowering latency increases potential for errors
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/91602612/235655816-74e07ae9-3d87-48e8-88e4-1d7e878e9df1.png)
 
 ## Lambda Architecture
 
