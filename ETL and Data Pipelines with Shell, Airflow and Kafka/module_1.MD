@@ -50,7 +50,7 @@ The data may be static (i.e. data archive) in which case the extraction step wou
 
 # Comparing between ETL and ELT
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/91602612/235655646-a7469a57-8c7e-4c36-b567-ff41fc1bd7fc.png)
 
 ## Diferences between ETL and ELT
 
