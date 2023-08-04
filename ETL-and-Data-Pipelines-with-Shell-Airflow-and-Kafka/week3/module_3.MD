@@ -67,13 +67,10 @@
 
 Python script blocks:
 
-![image.png](attachment:image.png)
-![image.png](attachment:image-2.png)
-
 1. Library imports
 2. DAG arguments
-3. DAG definition
-4. Task definition
+3. DAG definition (instantiation)
+4. Task definition (the nodes of the DAG)
 5. Task pipeline (in above image task 2 depends on the result of task 1)
 
 **Apache Airflow Scheduler**
