@@ -6,7 +6,7 @@ from datetime import datetime, date, timedelta
 default_dag = {
     "owner": "Felix Pratamasan",
     "start_date": date.today().isoformat(),
-    "email": "felixpratama242@gmail.com",
+    "email": ["felixpratama242@gmail.com"],
     "email_on_failure": True,
     "email_on_entry": True,
     "retries":1,
